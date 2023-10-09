@@ -1,0 +1,25 @@
+{
+  "api response": "api response",
+  "false": "false",
+  "footer": {
+    "detail": "All rights reserved @ React"
+  },
+  "header": {
+    "home": "Home",
+    "register": "Register",
+    "signin": "Sign In"
+  },
+  "hello": "hello",
+  "home": {
+    "hot_recommended": "Hot Recommended",
+    "joint_venture": "Joint Venture",
+    "new_arrival": "New arrival"
+  },
+  "key": "apple",
+  "key_few": "few",
+  "key_many": "many",
+  "key_one": "singular",
+  "key_other": "other",
+  "key_two": "two",
+  "key_zero": "zero"
+}

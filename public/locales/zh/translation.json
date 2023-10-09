@@ -1,0 +1,25 @@
+{
+  "api response": "接口返回",
+  "false": "失败",
+  "footer": {
+    "detail": "版权所有 @ React"
+  },
+  "header": {
+    "home": "首页",
+    "register": "注册",
+    "signin": "登陆"
+  },
+  "hello": "你好",
+  "home": {
+    "hot_recommended": "爆款推荐",
+    "joint_venture": "合作企业",
+    "new_arrival": "新品上市"
+  },
+  "key": "苹果",
+  "key_few": "几个",
+  "key_many": "许多",
+  "key_one": "一",
+  "key_other": "其他",
+  "key_two": "二",
+  "key_zero": "零"
+}
